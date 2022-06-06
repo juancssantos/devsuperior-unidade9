@@ -1,0 +1,31 @@
+.list-card {
+  font-size: 16px;
+  margin: 17px 17px 17px 45px;
+  padding-bottom: 90px;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.list-card-links{
+  width: fit-content;
+}
+
+.list-card a:hover {
+  text-decoration: underline;
+  color: yellow;
+}
+
+.list-card h6 {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 33px;
+  letter-spacing: -0.015em;
+  mix-blend-mode: normal;
+  padding-top: 15px;
+  
+
+}
